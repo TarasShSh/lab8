@@ -1,0 +1,7 @@
+﻿  UnitTest1.cpp
+C:\Users\Ttt\source\repos\lab81\UnitTest1\UnitTest1.cpp(2): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+C:\Users\Ttt\source\repos\lab81\UnitTest1\UnitTest1.cpp(2): message : Add macro to precompiled header instead of defining here
+C:\Users\Ttt\source\repos\lab81\UnitTest1\UnitTest1.cpp(3): message : use of precompiled header
+C:\Users\Ttt\source\repos\lab81\lab81\lab81.cpp(24,13): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ttt\source\repos\lab81\lab81\lab81.cpp(31,13): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ttt\source\repos\lab81\lab81\lab81.cpp(45,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
